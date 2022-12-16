@@ -53,16 +53,16 @@ const Footer = () => {
                   asrafuzzamankhan89@gmail.com
                 </a>
                 <div className="social-icons d-flex align-items-center gap-30 mt-4 ">
-                  <a className="text-white" href="">
+                  <a className="text-white" href="#a">
                     <BsLinkedin className=" fs-4" />
                   </a>
-                  <a className="text-white" href="">
+                  <a className="text-white" href="#a">
                     <BsInstagram className=" fs-4" />
                   </a>
-                  <a className="text-white" href="">
+                  <a className="text-white" href="#a">
                     <BsGithub className=" fs-4" />
                   </a>
-                  <a className="text-white" href="">
+                  <a className="text-white" href="#a">
                     <BsYoutube className=" fs-4" />
                   </a>
                 </div>

@@ -1,0 +1,27 @@
+.blog-card {
+  background-color: white;
+  border-radius: 10px;
+}
+.blog-card img {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.blog-content {
+  padding: 15px;
+}
+.blog-content p.date {
+  color: var(--color-777777);
+  font-size: 13px;
+  line-height: 24px;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+.blog-title {
+  font-size: 18px;
+  color: var(--color-131921);
+}
+.blog-desc {
+  font-size: 13px;
+  line-height: 22px;
+  color: var(--color-777777);
+}
